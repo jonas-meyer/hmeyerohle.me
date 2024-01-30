@@ -1,4 +1,4 @@
-baseURL = "hmeyerohle.me"
+baseURL = "https://www.hmeyerohle.me"
 title = "Hendrik Meyer-Ohle"
 languageCode = "en-us"
 theme = "devise"
