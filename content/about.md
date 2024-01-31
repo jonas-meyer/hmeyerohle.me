@@ -2,27 +2,47 @@
 title = "About"
 description = "Hugo, the world’s fastest framework for building websites"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+##### Education
 
-Hugo makes use of a variety of open source projects including:
+* 1994 (December) Dr phil Philipps University Marburg (Dissertation on innovation and dynamics in Japanese retailing)
+* 1991/1992 Double degree in Business Administration (Diplom-Kaufmann) and Japanese Studies (Magister Artium) - Philipps
+  University Marburg
+* 1986 to 1992 Undergraduate Studies in Business Administration and Japanese Studies - Philipps University Marburg
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+##### Employment
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+**National University of Singapore**
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* December 2022 – Head Department of Japanese Studies
+* January 2011 - June 2015 Head Department of Japanese Studies
+* January 2009 - December 2010 Vice Dean Graduate Studies and International Relations - Faculty of Arts and Social
+* Sciences
+* January 2007 - December 2007 Acting Head Department of Japanese Studies
+* August 2005 - December 2007 Assistant Dean Graduate Studies and Research Faculty of Arts and Social Sciences
+* August 2005 - December 2006 Deputy Head Department of Japanese Studies
+* July 2005 - Associate Professor Department of Japanese Studies
+* January 2000 - 2005 Assistant Professor Department of Japanese Studies
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**German Institute of Japanese Studies, (DIJ), Tokyo**
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* February 1995 - 1999 Senior Research Fellow - German Institute for Japanese Studies (DIJ), Tokyo
+
+**Japan Centre - Philipps University Marburg**
+
+* April-September 1994 Research Associate - Japan Centre - Philipps University Marburg
+
+**Longer Overseas Research Periods and Awards**
+
+* February 2020-June 2020 Sabbatical – Waseda University, Visiting Scholar, Graduate School of Economics
+* January 2016 - December 2016 Sabbatical - Waseda University, Visiting Scholar, Graduate School of Economics
+* January 2008 - December 2008 Sabbatical - Ritsumeikan University (Kyoto) - College of Business Administration
+* 2005 January - July: writing scheme Asia Research Institute (ARI) (NUS)
+* 2004 December: invited visiting researcher Japan Institute of Labor Policy and Training (JILPT)
+* 1993-1994: scholarship recipient at the German Institute for Japanese Studies, Tokyo
 
 
 
