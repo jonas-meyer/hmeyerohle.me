@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ja/</loc>
+    <loc>//localhost:1313/ja/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-Hans"
-                href="http://localhost:1313/ja/"
+                href="//localhost:1313/ja/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/publication_types/</loc>
+    <loc>//localhost:1313/ja/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/publication_types/"
+                href="//localhost:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-Hans"
-                href="http://localhost:1313/ja/publication_types/"
+                href="//localhost:1313/ja/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/tags/</loc>
+    <loc>//localhost:1313/ja/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-Hans"
-                href="http://localhost:1313/ja/tags/"
+                href="//localhost:1313/ja/tags/"
                 />
   </url>
 </urlset>
