@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Japanese Studies
+role: Professor International Business
 
 # Organizations/Affiliations to show in About widget
 organizations:
