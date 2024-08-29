@@ -1,0 +1,63 @@
+---
+# Display name
+title: Hendrik Meyer-Ohle
+
+# Full name (for SEO)
+first_name: Hendrik
+last_name: Meyer-Ohle
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: Professor International Business
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: Meiji Gakuin University
+    url: https://www.meijigakuin.ac.jp/en/
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    link: "mailto:meyer@eco.meijigakuin.ac.jp "
+  - icon: academicons/google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://scholar.google.com/citations?user=D0NOCVMAAAAJ
+  - icon: academicons/researchgate
+    link: https://www.researchgate.net/profile/Hendrik-Meyer-Ohle
+  - icon: brands/linkedin
+    link: https://www.linkedin.com/in/hendrik-meyer-ohle-3522707b/
+
+interests:
+  - Human Resource Management
+  - Japanese Retailing
+  - Internationalization of Human Resources
+
+education:
+    - area: Dr phil (Dissertation on innovation and dynamics in Japanese retailing)
+      institution: Philipps University Marburg
+      year: 1994
+    - area: Double degree in Business Administration (Diplom-Kaufmann) and Japanese Studies (Magister Artium)
+      institution: Phillips University Marburg
+      year: 1992
+    - area: Undergraduate Studies in Business Administration and Japanese Studies
+      institution: Phillips University Marburg
+      year: 1992
+
+
+---
+
+## About Me
+
+Dr. Hendrik Meyer-Ohle is Professor for International Business in the Department of International Business at Meiji
+Gakuin University (Tokyo). At Meiji Gakuin University he teaches courses on International Management, International
+Human Resources Management and the Internationalizaation of Retailing. Before joining Meiji Gakuin University in April
+2024 he taught and researched in the Department of Japanese Studies at the National University of Singapore for 24
+years, during this time also serving as Head of the Department and Assistant and Vice Dean of the Faculty of Arts and
+Social Sciences. His current research interests encompass the organization of human resources management in Japanese
+firms, challenges and trends in Japanese retailing, and the internationalization of human resources, including the
+recruitment of foreign employees by Japanese companies.
