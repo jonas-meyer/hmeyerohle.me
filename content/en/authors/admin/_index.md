@@ -53,13 +53,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:meyer@eco.meijigakuin.ac.jp "
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=D0NOCVMAAAAJ
   - icon: researchgate
     icon_pack: fab
-    link: https://www.linkedin.com/in/hendrik-meyer-ohle-3522707b/
+    link: https://www.researchgate.net/profile/Hendrik-Meyer-Ohle
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hendrik-meyer-ohle-3522707b/
@@ -70,8 +70,7 @@ highlight_name: true
 ---
 
 
-Dr. Hendrik Meyer-Ohle, an Associate Professor and Head of the Department of Japanese Studies at the National University
-of Singapore (NUS), has a distinguished background in Japanese business and economy research. His current research
+Dr. Hendrik Meyer-Ohle is Professor for International Business in the Department of International Business at Meiji Gakuin University (Tokyo). At Meiji Gakuin University he teaches courses on International Management, International Human Resources Management and the Internationalizaation of Retailing. Before joining Meiji Gakuin University in April 2024 he taught and researched in the Department of Japanese Studies at the National University of Singapore for 24 years, during this time also serving as Head of the Department and Assistant and Vice Dean of the Faculty of Arts and Social Sciences. His current research
 interests encompass the organization of human resources management in Japanese firms, challenges and trends in Japanese
 retailing, and the internationalization of human resources, including the recruitment of foreign employees by Japanese
 companies.
