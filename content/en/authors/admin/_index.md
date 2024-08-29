@@ -21,8 +21,8 @@ role: Professor of Japanese Studies
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Meiji University
-    url: https://www.stanford.edu/
+  - name: Meiji Gakuin University
+    url: https://www.meijigakuin.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
